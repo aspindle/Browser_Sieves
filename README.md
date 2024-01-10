@@ -1,6 +1,6 @@
 # Firefox_Sieves
 
-Abstract use case: To prevent distractions. 
+Abstract use case: Prevent distractions. 
 
 The two most stable functioning sieves are the never-ending state of emergency banner removal filter and value removal one. 
 
