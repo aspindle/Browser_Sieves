@@ -8,6 +8,6 @@ The upsell, language, and cookie sieves still need adjustment.
 
 Github doesn't allow uploading folders, so it's a zip. 
 
-Kiwi Browser for mobile.
+[Kiwi Browser](https://github.com/kiwibrowser) for mobile.
 
 ©²
