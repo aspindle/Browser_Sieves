@@ -1,4 +1,4 @@
-# Firefox_Sieves
+# Browser_Sieves
 
 Abstract use case: Prevent distractions. 
 
@@ -8,6 +8,6 @@ The upsell, language, and cookie sieves still need adjustment.
 
 Github doesn't allow uploading folders, so it's a zip. 
 
-Mozilla being [stubborn](https://github.com/mozilla-mobile/reference-browser/discussions/2540) on mobile...
+Kiwi Browser for mobile.
 
 ©²
