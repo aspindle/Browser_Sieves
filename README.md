@@ -6,6 +6,6 @@ The two most stable functioning sieves are the 'never-ending state of emergency'
 
 The upsell, language, and cookie sieves still need adjustment.
 
-Still want [mobile](https://github.com/mozilla-mobile/reference-browser/discussions/2540#discussioncomment-7614646) support, [Kiwi Browser](https://github.com/kiwibrowser) could work also but is Google... 
+Still want [mobile](https://github.com/mozilla-mobile/reference-browser/discussions/2540#discussioncomment-7614646) support...
 
 ©²
